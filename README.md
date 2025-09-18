@@ -33,15 +33,17 @@ pip package manager
 
 ### 1. Clone the Repository
 
+```
 git clone https://github.com/jm7n7/week-4-RAG.git
 cd "your-repository-directory"
+```
 
 ### 2. Install Dependencies
 
 Install the required Python packages using the provided pip command from the notebook. It's recommended to use a virtual environment.
-
+`
 pip install langchain chromadb sentence-transformers transformers langchain-community pypdf torch
-
+`
 ### 3. Set Up API Keys
 
 This project requires a Hugging Face Hub API token to download and use the LLM.
