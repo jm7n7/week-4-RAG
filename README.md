@@ -33,7 +33,7 @@ pip package manager
 
 1. Clone the Repository
 
-git clone <your-repository-url>
+git clone https://github.com/jm7n7/week-4-RAG.git
 cd <your-repository-directory>
 
 2. Install Dependencies
